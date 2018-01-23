@@ -1,0 +1,27 @@
+2018-01-23 3:22:01 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 7
+2018-01-23 3:22:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:22:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:22:01 - PHP Notice:  Undefined variable: mysql in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:22:01 - PHP Notice:  Trying to get property of non-object in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:24:08 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 7
+2018-01-23 3:24:08 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:24:08 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:24:08 - PHP Notice:  Undefined variable: mysql in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:24:08 - PHP Notice:  Trying to get property of non-object in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:34:37 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 7
+2018-01-23 3:34:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:34:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:34:37 - PHP Notice:  Undefined variable: mysql in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:34:37 - PHP Notice:  Trying to get property of non-object in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:35:01 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 7
+2018-01-23 3:35:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:35:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:35:01 - PHP Notice:  Undefined variable: mysql in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:35:01 - PHP Notice:  Trying to get property of non-object in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:36:14 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'oc3020' in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 7
+2018-01-23 3:36:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:36:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/jitendrasharma/sites/oc3020/system/library/db/mysqli.php on line 10
+2018-01-23 3:36:14 - PHP Notice:  Undefined variable: mysql in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 3:36:14 - PHP Notice:  Trying to get property of non-object in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
+2018-01-23 6:03:53 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-23 6:03:53 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
