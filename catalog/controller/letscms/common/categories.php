@@ -23,7 +23,7 @@ class ControllerLetscmsCommonCategories extends RestController {
 		foreach ($categories as $category) {
 			$children_data = array();
 
-			$children = $this->model_letscms_catalog_category->getCategories($category['category_id'],1);
+			$children = $this->model_letscms_catalog_category->getCategories($category['category_id'],1,$language_id);
 
 			foreach ($children as $child) {
 				$filter_data = array(

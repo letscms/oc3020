@@ -123,7 +123,7 @@ abstract class RestController extends Controller {
             $this->model_letscms_restapi->updateCustomerData($this->session, $this->session->data['customer_id']);
         }
 
-				$json['session_id']=$this->session->getId();
+		$json['session_id']=$this->session->getId();
         $this->response->setOutput(json_encode($json));
     }
 

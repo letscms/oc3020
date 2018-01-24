@@ -25,3 +25,23 @@
 2018-01-23 3:36:14 - PHP Notice:  Trying to get property of non-object in /Users/jitendrasharma/sites/oc3020/install/controller/install/step_3.php on line 280
 2018-01-23 6:03:53 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
 2018-01-23 6:03:53 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 5:23:34 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 5:24:50 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 5:25:39 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 125
+2018-01-24 5:25:39 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 5:25:39 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 125
+2018-01-24 5:26:07 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 125
+2018-01-24 5:26:26 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 125
+2018-01-24 5:26:26 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 115
+2018-01-24 5:27:11 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 5:28:25 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-24 5:28:25 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 6:16:40 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-24 6:18:21 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-24 6:19:16 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-24 6:19:46 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-24 6:19:46 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 6:22:37 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-24 6:22:38 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
+2018-01-24 6:23:51 - PHP Notice:  Undefined index: session_id in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 93
+2018-01-24 6:23:51 - PHP Notice:  Undefined variable: _SESSION in /Users/jitendrasharma/sites/oc3020/system/engine/restcontroller.php on line 119
